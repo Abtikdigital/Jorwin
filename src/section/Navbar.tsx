@@ -808,7 +808,7 @@ const DesktopNavbar = () => {
               className="bg-gradient-to-r from-[#3CA2E2] to-[#052EAA] p-3 rounded-full text-white"
             />
             <span className="text-[#4D4D4D] group-hover:underline hover:text-black transition-all duration-100">
-              +91 8928 138 434
+              +91 88667 70439
             </span>
           </a>
         </div>
