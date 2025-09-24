@@ -601,7 +601,7 @@ const Contact = (props: any) => {
 
           <div className="h-96">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.404567325663!2d72.51250407436834!3d23.04562491546931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x21f8ee324da2af39%3A0xf04a9f002154b683!2sJorwin%20Group%20of%20Companies!5e0!3m2!1sen!2sin!4v1755069113485!5m2!1sen!2sin"
+              src="https://www.google.com/search?sca_esv=c08fbbc63a498a11&kgmid=/g/11f03yz902&q=Maple+Trade+Centre+a+Project+By+Ganesh+Housing&shndl=30&shem=lcuae,uaasie,shrtsdl&source=sh/x/loc/uni/m1/1&kgs=98eeee2c74028352&utm_source=lcuae,uaasie,shrtsdl,sh/x/loc/uni/m1/1"
               style={{
                 border: 0,
                 width: "100%",

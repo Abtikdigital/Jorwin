@@ -330,7 +330,7 @@ const DroplineOverdraft = () => {
                         <a
                             href="mailto:bharat@Jorwinservices.com"
                             className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                            aria-label="Email us at info@Jorwin.com"
+                            aria-label="Email us at info@jorwin.co.in.com"
                         >
                             <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                                 <Mail className="w-5 h-5 text-white" />

@@ -464,13 +464,13 @@ const PrivacyPolicy = () => {
                       className="text-gray-700 font-3"
 
                     >
-                      <strong>Email:</strong> <a href="mailto:info@Jorwinservices.com"> info@Jorwinservices.com</a>
+                      <strong>Email:</strong> <a href="mailto:info@jorwin.co.inservices.com"> info@jorwin.co.inservices.com</a>
                     </p>
                     <p
                       className="text-gray-700 font-3"
 
                     >
-                      <strong>Phone:</strong><a href="tel:+91 89281 38434">   +91 89281 38434</a>
+                      <strong>Phone:</strong><a href="tel:+91 88667 70439">   +91 88667 70439</a>
                     </p>
                     <p
                       className="text-gray-700 font-3"

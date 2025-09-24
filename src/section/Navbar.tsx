@@ -1036,14 +1036,14 @@ const MobileNavbar = () => {
             <li className="">
               <a
                 className="custom-btn !text-black items-center gap-2 group !bg-none !shadow-none inline-flex text-center text-sm lg:text-base px-4 lg:px-6 py-2"
-                href="tel:+918928138434"
+                href="tel:+91 88667 70439"
               >
                 <FontAwesomeIcon
                   icon={faPhone}
                   className="bg-gradient-to-r from-[#3CA2E2] to-[#052EAA] p-3 rounded-full text-white"
                 />
                 <span className="text-[#4D4D4D] group-hover:underline hover:text-black transition-all duration-100">
-                  +91 8928 138 434
+                   +91 88667 70439
                 </span>
               </a>
             </li>
