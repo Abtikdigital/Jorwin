@@ -277,7 +277,7 @@ const menuItems: Menu[] = [
     description: "Read our latest news & insights",
     subServices: [
       { name: "Blogs", path: "/news-insights/blogs" },
-      { name: "E-books", path: "/news-insights/e-books" },
+      // { name: "E-books", path: "/news-insights/e-books" },
     ],
   },
   {
