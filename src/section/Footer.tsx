@@ -73,10 +73,10 @@ const Footer = () => {
             <li className="flex gap-3 items-center">
               <Mail className="hover:from-[#2178B5] hover:bg-gradient-to-tl text-white min-h-8 min-w-8 hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg" />
               <a
-                href="mailto:info@jorwin.co.in.co.in "
+                href="mailto:info@jorwin.co.in "
                 className="text-sm text-[#4D4D4D] font-semibold hover:underline hover:text-gray-950 cursor-pointer duration-300"
               >
-                info@jorwin.co.in.co.in
+                info@jorwin.co.in
               </a>
             </li>
             <li className="flex gap-3 items-center ">
