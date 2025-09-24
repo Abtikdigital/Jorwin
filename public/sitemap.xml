@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://abtikservices.com/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://abtikservices.com/about</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abtikservices.com/career</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://abtikservices.com/contact</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://abtikservices.com/blog</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Services: Funding -->
+  <url><loc>https://abtikservices.com/services/funding/seed-fund</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/subsidy/pmegp</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/subsidy/cmegp</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/subsidy/pmfme</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/subsidy/stand-up-india</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/grants</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/msme-loans</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/msme-loan/mudra</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/msme-loan/udaan</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/msme-loan/cgtmse</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/agriculture/naiff-aiff</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/agriculture/agrisure</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/business-loan</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/lap</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/cash-credit</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/overdraft</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/dropline-od</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/sme</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/term-loan</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/loans/project-funding</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/private-funding/angel-inverstor</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/private-funding/venture-capital</loc></url>
+  <url><loc>https://abtikservices.com/services/funding/private-funding/nbfc</loc></url>
+
+  <!-- Services: Legal -->
+  <url><loc>https://abtikservices.com/services/legal/trademark-registration</loc></url>
+  <url><loc>https://abtikservices.com/services/legal/copyright-protection</loc></url>
+  <url><loc>https://abtikservices.com/services/legal/patent-filing</loc></url>
+
+  <!-- Services: Certificates -->
+  <url><loc>https://abtikservices.com/services/certificate/fssai-licence</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/startup-india</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/tax-exemption-certificate</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/msme</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/make-in-india</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/zed</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/iso</loc></url>
+  <url><loc>https://abtikservices.com/services/certificate/trade-licence</loc></url>
+
+  <!-- Services: Tax -->
+  <url><loc>https://abtikservices.com/services/tax/gst-filing</loc></url>
+  <url><loc>https://abtikservices.com/services/tax/tds-compliance</loc></url>
+  <url><loc>https://abtikservices.com/services/tax/annual-compliance</loc></url>
+
+  <!-- Services: Registration -->
+  <url><loc>https://abtikservices.com/services/registration/private-limited</loc></url>
+  <url><loc>https://abtikservices.com/services/registration/llp</loc></url>
+  <url><loc>https://abtikservices.com/services/registration/proprietorship</loc></url>
+  <url><loc>https://abtikservices.com/services/registration/partnership</loc></url>
+  <url><loc>https://abtikservices.com/services/registration/section8company</loc></url>
+  <url><loc>https://abtikservices.com/services/registration/producer</loc></url>
+
+  <!-- Legal Pages -->
+  <url><loc>https://abtikservices.com/legal/privacy-policy</loc></url>
+  <url><loc>https://abtikservices.com/legal/refund-policy</loc></url>
+
+  <!-- Blogs (Dynamic ExpandedBlog pages will be discovered by Google automatically) -->
+
+</urlset>
