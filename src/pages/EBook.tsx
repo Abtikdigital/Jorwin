@@ -21,7 +21,7 @@ import BgImage from "../assets/Hero/bgImg.svg";
 import EbookImage from "../assets/eBooks/Image2.jpg";
 import Book1 from "../assets/eBooks/StartupAccelerator.jpg";
 import Book2 from "../assets/eBooks/TAXExemption.jpg"
-import FormImage from "../assets/Logo/Jorwin-blue.png";
+import FormImage from "../assets/Logo/Abtik-blue.png";
 import seoData from "../data/seoData.json";
 import isValidIndianNumber from "../utils/validation/isGenuineNumber";
 import { addDownloadApplication } from "../api/eBookApi"; // Updated to a generic API for form submission
