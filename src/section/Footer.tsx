@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "../assets/Logo/NewLatestLogo.png";
+import Logo from "../assets/Logo/JorwinLogo.jpg";
 import { MapPin } from "lucide-react";
 import { Phone } from "lucide-react";
 import { Mail } from "lucide-react";

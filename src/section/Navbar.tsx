@@ -1,5 +1,5 @@
 import { ChevronDown, Menu, X, ChevronRight } from "lucide-react";
-import Logo from "../assets/Logo/NewLatestLogo.png";
+import Logo from "../assets/Logo/JorwinLogo.jpg";
 import { useEffect, useState, useRef, memo } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

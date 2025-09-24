@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import { useSelector, useDispatch } from "react-redux";
 import { useForm, Controller } from "react-hook-form";
 import Swal from "sweetalert2";
-import Image from "../assets/Logo/Newlogo.jpg";
+import Image from "../assets/Logo/JorwinLogo.jpg";
 import { X, User, Mail, Phone, MessageSquare, Building } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { memo, useState, useRef, useEffect } from "react";
@@ -525,7 +525,7 @@ const Mainlayout = ({ children }: MainlayoutProps) => {
                   <img
                     src={Image}
                     alt="Contact Visual"
-                    className="rounded-xl max-w-full md:h-full max-h-[200px] md:max-h-[200px] md:max-w-[200px]"
+                    className="rounded-xl max-w-full md:h-full max-h-[200px] md:max-h-[200px] md:max-w-[300px]"
                   />
                 </div>
 
