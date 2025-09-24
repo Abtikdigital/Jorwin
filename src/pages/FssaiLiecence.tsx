@@ -127,7 +127,7 @@ const FSSAILicense = () => {
         return 0.5 + row * 0.5;
     };
 
-    // Why Choose Abtik
+    // Why Choose Jorwin
     const refWhyChoose = useRef(null);
     const isInViewWhyChoose = useInView(refWhyChoose, {
         once: true,
@@ -179,7 +179,7 @@ const FSSAILicense = () => {
         },
     ];
 
-    // === Why Choose Abtik Cards ===
+    // === Why Choose Jorwin Cards ===
     const whyChooseData = [
         {
             icon: Shield,
@@ -207,13 +207,13 @@ const FSSAILicense = () => {
             <HeadProvider>
                 <Title>
                     {seoData?.fssaiLicenseService?.title ||
-                        "FSSAI License Registration  Get Food License Online | Abtik"}
+                        "FSSAI License Registration  Get Food License Online | Jorwin"}
                 </Title>
                 <Meta
                     name="description"
                     content={
                         seoData?.fssaiLicenseService?.description ||
-                        "Get FSSAI License registration online with Abtik. Expert assistance for Basic Registration, State License & Central License. Fast approval, complete documentation support."
+                        "Get FSSAI License registration online with Jorwin. Expert assistance for Basic Registration, State License & Central License. Fast approval, complete documentation support."
                     }
                 />
                 <Meta
@@ -341,9 +341,9 @@ const FSSAILicense = () => {
                                 </div>
                             </a>
                             <a
-                                href="mailto:sumitradadiya@abtikservices.in"
+                                href="mailto:sumitradadiya@Jorwinservices.in"
                                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                                aria-label="Email us at sumitradadiya@abtikservices.in"
+                                aria-label="Email us at sumitradadiya@Jorwinservices.in"
                             >
                                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                                     <Mail className="w-5 h-5 text-white" />
@@ -353,8 +353,8 @@ const FSSAILicense = () => {
                                         Write Email
                                     </p>
                                     <p className="text-xs font-3 text-gray-600">
-                                        <a href="mailto:sumitradadiya@abtikservices.in">
-                                            sumitradadiya@abtikservices.in
+                                        <a href="mailto:sumitradadiya@Jorwinservices.in">
+                                            sumitradadiya@Jorwinservices.in
                                         </a>
                                     </p>
                                 </div>
@@ -400,7 +400,7 @@ const FSSAILicense = () => {
                             ensures compliance with food safety standards and regulations.
                             Whether you're running a restaurant, manufacturing food products,
                             or selling food items, FSSAI registration is legally required. Let
-                            Abtik handle your FSSAI license application process with expert
+                            Jorwin handle your FSSAI license application process with expert
                             guidance and complete documentation support.
                         </p>
                     </div>
@@ -632,7 +632,7 @@ const FSSAILicense = () => {
                     </div>
                 </motion.section>
 
-                {/* Abtik Process Section */}
+                {/* Jorwin Process Section */}
                 <motion.section
                     ref={refProcess}
                     initial={{ y: 100, opacity: 0 }}
@@ -641,7 +641,7 @@ const FSSAILicense = () => {
                     className="px-7 md:px-14 bg-[#f7f7f7] py-8"
                 >
                     <h2 className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]">
-                        How Abtik Helps with FSSAI License
+                        How Jorwin Helps with FSSAI License
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                         {processData?.map((process, index) => (
@@ -666,7 +666,7 @@ const FSSAILicense = () => {
                     </div>
                 </motion.section>
 
-                {/* Why Choose Abtik Section */}
+                {/* Why Choose Jorwin Section */}
                 <motion.section
                     ref={refWhyChoose}
                     initial={{ y: 100, opacity: 0 }}
@@ -675,7 +675,7 @@ const FSSAILicense = () => {
                     className="px-7 md:px-14 bg-[#f7f7f7] py-8"
                 >
                     <h2 className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]">
-                        Why Choose Abtik for FSSAI License
+                        Why Choose Jorwin for FSSAI License
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                         {whyChooseData?.map((benefit, index) => (

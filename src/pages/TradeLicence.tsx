@@ -56,9 +56,9 @@ const TradeLicenseCertificate = () => {
         "Most trade licenses are valid for one year and must be renewed annually with the local municipal body. Delays may result in penalties or action.",
     },
     {
-      question: "6. How does Abtik help with Trade License?",
+      question: "6. How does Jorwin help with Trade License?",
       answer:
-        "Abtik manages the entire process application, documentation, liaison with municipal authorities, and follow up for quick, compliant license approval and renewal support.",
+        "Jorwin manages the entire process application, documentation, liaison with municipal authorities, and follow up for quick, compliant license approval and renewal support.",
     },
   ];
 
@@ -244,7 +244,7 @@ const TradeLicenseCertificate = () => {
                          max-w-none font-3 sm:max-w-lg md:max-w-xl lg:max-w-none mx-auto lg:mx-0"
 
             >
-              Apply for a municipal Trade License with Abtik support get legal,
+              Apply for a municipal Trade License with Jorwin support get legal,
               grow faster, and operate with peace of mind in any Indian city.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -317,9 +317,9 @@ const TradeLicenseCertificate = () => {
                 </div>
               </a>
               <a
-                href="mailto:bharat@abtikservices.com"
+                href="mailto:bharat@Jorwinservices.com"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -329,8 +329,8 @@ const TradeLicenseCertificate = () => {
                     Write Email
                   </p>
                   <p className="text-xs text-gray-600 font-3">
-                    <a href="mailto:bharat@abtikservices.com">
-                      bharat@abtikservices.com
+                    <a href="mailto:bharat@Jorwinservices.com">
+                      bharat@Jorwinservices.com
                     </a>
                   </p>
                 </div>
@@ -479,7 +479,7 @@ const TradeLicenseCertificate = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -491,7 +491,7 @@ const TradeLicenseCertificate = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets You Licensed
+            How Jorwin Gets You Licensed
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

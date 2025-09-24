@@ -56,9 +56,9 @@ const AnnualCompliance = () => {
         "Heavy late fees (₹100/day even for small delays), disqualification of directors/partners, deregistration or striking off by MCA, and in certain cases prosecution and personal liability for officers.",
     },
     {
-      question: "6. How does Abtik assist with annual compliance?",
+      question: "6. How does Jorwin assist with annual compliance?",
       answer:
-        "Abtik provides end to end annual compliance: compliance calendar, secretarial help, document prep, digital signature, e filing, AGM/board meeting support, ROC/ITR filings, and regular alerts to guarantee 100% legal standing.",
+        "Jorwin provides end to end annual compliance: compliance calendar, secretarial help, document prep, digital signature, e filing, AGM/board meeting support, ROC/ITR filings, and regular alerts to guarantee 100% legal standing.",
     },
   ];
 
@@ -249,7 +249,7 @@ const AnnualCompliance = () => {
             >
               Keep your company or LLP 100% compliant with statutory annual
               filings, ROC returns, meetings, and ITR all managed & filed by
-              Abtik experts.
+              Jorwin experts.
             </p>
             <div className="pt-2 sm:pt-4">
               <button
@@ -321,9 +321,9 @@ const AnnualCompliance = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -333,8 +333,8 @@ const AnnualCompliance = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -381,7 +381,7 @@ const AnnualCompliance = () => {
               Annual compliance includes all the legal filings, disclosures,
               board meetings, AGMs, and return submissions your company or LLP
               must complete every financial year under Indian company law.
-              Neglecting these can result in steep penalties or closure, Abtik
+              Neglecting these can result in steep penalties or closure, Jorwin
               makes sure you stay fully compliant, year after year.
             </p>
           </div>
@@ -488,7 +488,7 @@ const AnnualCompliance = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -500,7 +500,7 @@ const AnnualCompliance = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Handles Annual Compliance For You
+            How Jorwin Handles Annual Compliance For You
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

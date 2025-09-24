@@ -56,9 +56,9 @@ const Section8CompanyRegistration = () => {
         "Obtain DSC and DIN, draft and file MOA/AOA, apply and get Section 8 Central Govt. license via MCA portal (SPICe+/INC,12), and receive Certificate of Incorporation, PAN, TAN. All steps are digital.",
     },
     {
-      question: "6. How does Abtik help?",
+      question: "6. How does Jorwin help?",
       answer:
-        "Abtik drafts all required documents, procures DSCs, manages online filings and follow ups, obtains MCA Section 8 license, and assists post registration with tax and donor compliance.",
+        "Jorwin drafts all required documents, procures DSCs, manages online filings and follow ups, obtains MCA Section 8 license, and assists post registration with tax and donor compliance.",
     },
   ];
 
@@ -243,7 +243,7 @@ const Section8CompanyRegistration = () => {
 
             >
               Launch your non profit the most trusted way in India Section 8
-              Company. Get legal, CSR, and donor ready with Abtik’s end to end
+              Company. Get legal, CSR, and donor ready with Jorwin’s end to end
               support.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -316,9 +316,9 @@ const Section8CompanyRegistration = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -328,8 +328,8 @@ const Section8CompanyRegistration = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -500,7 +500,7 @@ const Section8CompanyRegistration = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets Your Section 8 Company Registered
+            How Jorwin Gets Your Section 8 Company Registered
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

@@ -48,7 +48,7 @@ const SoleProprietorRegistration = () => {
     {
       question: "4. How to open a bank account for a proprietorship?",
       answer:
-        "You need two official documents in the business name: GST, Udyam MSME, Shops Act, trade license, or CA letter. Abtik assists with fast certifications and banker compliance.",
+        "You need two official documents in the business name: GST, Udyam MSME, Shops Act, trade license, or CA letter. Jorwin assists with fast certifications and banker compliance.",
     },
     {
       question: "5. Is registration mandatory for sole proprietorship?",
@@ -56,9 +56,9 @@ const SoleProprietorRegistration = () => {
         "No central registration is mandatory, but most banks, vendors, and tenders require GST registration or Shops and Establishment/Trade License/Udyam MSME Certificate for proof.",
     },
     {
-      question: "6. How does Abtik help sole proprietors?",
+      question: "6. How does Jorwin help sole proprietors?",
       answer:
-        "Abtik gets all your registrations (GST, Udyam, Shops Act), drafts required documents, and guides your banking, tax, and compliance to ensure your business runs legally plus support for upgrades to LLP or Pvt Ltd later.",
+        "Jorwin gets all your registrations (GST, Udyam, Shops Act), drafts required documents, and guides your banking, tax, and compliance to ensure your business runs legally plus support for upgrades to LLP or Pvt Ltd later.",
     },
   ];
 
@@ -248,7 +248,7 @@ const SoleProprietorRegistration = () => {
 
             >
               Kickstart your small business or freelance venture as a sole
-              proprietor. Fastest, lowest cost, owner controlled, Abtik gets your
+              proprietor. Fastest, lowest cost, owner controlled, Jorwin gets your
               GST, Udyam, and bank proof ready in record time.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -321,9 +321,9 @@ const SoleProprietorRegistration = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -333,8 +333,8 @@ const SoleProprietorRegistration = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -385,7 +385,7 @@ const SoleProprietorRegistration = () => {
               small businesses, traders, and freelancers. With the right
               supporting documents and registrations, you can open bank
               accounts, acquire licenses, and access credit or MSME
-              benefits, Abtik makes it effortless.
+              benefits, Jorwin makes it effortless.
             </p>
           </div>
         </motion.section>
@@ -481,7 +481,7 @@ const SoleProprietorRegistration = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -493,7 +493,7 @@ const SoleProprietorRegistration = () => {
             className="sub-heading text-center font-2 bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets Your Sole Proprietorship Started
+            How Jorwin Gets Your Sole Proprietorship Started
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

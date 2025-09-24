@@ -76,7 +76,7 @@ const Contact = () => {
 
             >
               Empowering Businesses through Comprehensive Solutions From Fund
-              Management to Legal Compliance, We've Got You Covered at Abtik
+              Management to Legal Compliance, We've Got You Covered at Jorwin
               Startup Advisor Private Limited
             </p>
             <div className="pt-2 sm:pt-4">

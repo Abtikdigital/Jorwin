@@ -56,9 +56,9 @@ const PartnershipRegistration = () => {
         "The partnership deed can be drafted in 2,3 days; firm registration takes 7,15 working days depending on the state.",
     },
     {
-      question: "6. How does Abtik help with Partnership Registration?",
+      question: "6. How does Jorwin help with Partnership Registration?",
       answer:
-        "Abtik prepares a custom deed, files all applications for registration, helps open a partner bank account, obtains GST/Udyam registration, and provides ongoing legal/compliance support.",
+        "Jorwin prepares a custom deed, files all applications for registration, helps open a partner bank account, obtains GST/Udyam registration, and provides ongoing legal/compliance support.",
     },
   ];
 
@@ -242,7 +242,7 @@ const PartnershipRegistration = () => {
 
             >
               Set up your professional or SME firm easily custom deed, bankable
-              registration, legal compliance from day one with Abtik!
+              registration, legal compliance from day one with Jorwin!
             </p>
             <div className="pt-2 sm:pt-4">
               <button
@@ -314,9 +314,9 @@ const PartnershipRegistration = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -326,8 +326,8 @@ const PartnershipRegistration = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -493,7 +493,7 @@ const PartnershipRegistration = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets Your Firm Registered
+            How Jorwin Gets Your Firm Registered
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

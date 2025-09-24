@@ -33,20 +33,20 @@ const RefundPolicy = () => {
       <HeadProvider>
         <Title>
           {seoData?.refundPolicy?.title ||
-            "Refund Policy - Abtik Startup Advisor Private Limited"}
+            "Refund Policy - Jorwin Startup Advisor Private Limited"}
         </Title>
         <Meta
           name="description"
           content={
             seoData?.refundPolicy?.description ||
-            "Learn about our refund policy at Abtik Startup Advisor Private Limited. Understand the terms and conditions for refunds and cancellations."
+            "Learn about our refund policy at Jorwin Startup Advisor Private Limited. Understand the terms and conditions for refunds and cancellations."
           }
         />
         <Meta
           name="keywords"
           content={
             seoData?.refundPolicy?.keyword ||
-            "refund policy, cancellation, money back guarantee, Abtik Startup Advisor"
+            "refund policy, cancellation, money back guarantee, Jorwin Startup Advisor"
           }
         />
         <Meta
@@ -103,7 +103,7 @@ const RefundPolicy = () => {
           
             >
               We are committed to your satisfaction. Learn about our refund
-              policy and the terms for cancellations at Abtik Startup Advisor
+              policy and the terms for cancellations at Jorwin Startup Advisor
               Private Limited.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -156,7 +156,7 @@ const RefundPolicy = () => {
                 className="text-lg font-3 text-gray-700 leading-relaxed text-center max-w-3xl mx-auto"
               
               >
-                At <strong>Abtik Startup Advisor Private Limited</strong>, we
+                At <strong>Jorwin Startup Advisor Private Limited</strong>, we
                 strive to ensure complete customer satisfaction with our
                 services. This Refund Policy outlines the terms and conditions
                 under which refunds may be provided for our business advisory
@@ -236,7 +236,7 @@ const RefundPolicy = () => {
                   </li>
                   <li>
                     <strong>Contact Method:</strong> Email us at
-                    refund@abtikstartup.com or call +91-XXXXXXXXXX
+                    refund@Jorwinstartup.com or call +91-XXXXXXXXXX
                   </li>
                   <li>
                     <strong>Detailed Explanation:</strong> Include a clear
@@ -510,7 +510,7 @@ const RefundPolicy = () => {
                       className="text-gray-700 font-3"
                     
                     >
-                      <strong>Email:</strong> <a href="mailto: info@abtikservices.com"> info@abtikservices.com</a>
+                      <strong>Email:</strong> <a href="mailto: info@Jorwinservices.com"> info@Jorwinservices.com</a>
                     </p>
                     <p
                       className="text-gray-700 font-3"

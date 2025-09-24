@@ -56,9 +56,9 @@ const ProducerCompanyRegistration = () => {
         "With all documents ready, registration usually completes in 10 to 20 working days, including digital signatures, company name approval, and submission/approval of all MCA forms.",
     },
     {
-      question: "6. How does Abtik help Producer Companies?",
+      question: "6. How does Jorwin help Producer Companies?",
       answer:
-        "Abtik provides complete legal and compliance help document vetting, digital signatures, drafting, member coordination, online MCA filing, and end to end handholding for government schemes, GST, bank loans, and annual returns.",
+        "Jorwin provides complete legal and compliance help document vetting, digital signatures, drafting, member coordination, online MCA filing, and end to end handholding for government schemes, GST, bank loans, and annual returns.",
     },
   ];
 
@@ -247,7 +247,7 @@ const ProducerCompanyRegistration = () => {
             >
               Register a Producer Company India’s premier model for modern
               farmer and agri business collectives. Get legal status, business
-              benefits, and seamless Abtik support.
+              benefits, and seamless Jorwin support.
             </p>
             <div className="pt-2 sm:pt-4">
               <button
@@ -319,9 +319,9 @@ const ProducerCompanyRegistration = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -331,8 +331,8 @@ const ProducerCompanyRegistration = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -496,7 +496,7 @@ const ProducerCompanyRegistration = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets Your Producer Company Registered
+            How Jorwin Gets Your Producer Company Registered
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

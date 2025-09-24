@@ -49,7 +49,7 @@ const About = () => {
             className="sub-heading text-center md:text-left bg-clip-text bg-gradient-to-t text-transparent from-[#3CA2E2] to-[#052EAA] font-1"
 
           >
-            About Abtik
+            About Jorwin
           </h2>
           <p className="paragraph font-2"
 
@@ -64,7 +64,7 @@ const About = () => {
           <p className="paragraph font-2"
 
           >
-            At Abtik, we don’t just provide solutions,  we work alongside you. Our transparent, results driven approach ensures every business receives the right support at the right time, enabling confident growth from the first step to full scale expansion.
+            At Jorwin, we don’t just provide solutions,  we work alongside you. Our transparent, results driven approach ensures every business receives the right support at the right time, enabling confident growth from the first step to full scale expansion.
           </p>
           <div className="text-center md:text-left" onClick={() => {
             nav("/about")

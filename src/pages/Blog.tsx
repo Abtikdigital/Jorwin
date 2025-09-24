@@ -60,7 +60,7 @@ const Blog = () => {
                           main-heading font-1"
              
             >
-              Abtik{" "}
+              Jorwin{" "}
               <span className="text-[#3CA2E2] font-extrabold sm:inline">
                 Blog
               </span>{" "}
@@ -74,7 +74,7 @@ const Blog = () => {
            
             >
               Empowering Businesses through Comprehensive Solutions From Fund
-              Management to Legal Compliance, We've Got You Covered at Abtik
+              Management to Legal Compliance, We've Got You Covered at Jorwin
               Startup Advisor Private Limited
             </p>
             <div className="pt-2 sm:pt-4">

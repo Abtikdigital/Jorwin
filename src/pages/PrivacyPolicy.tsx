@@ -33,20 +33,20 @@ const PrivacyPolicy = () => {
       <HeadProvider>
         <Title>
           {seoData?.privacyPolicy?.title ||
-            "Privacy Policy - Abtik Startup Advisor Private Limited"}
+            "Privacy Policy - Jorwin Startup Advisor Private Limited"}
         </Title>
         <Meta
           name="description"
           content={
             seoData?.privacyPolicy?.description ||
-            "Learn how Abtik Startup Advisor Private Limited collects, uses, and protects your personal information."
+            "Learn how Jorwin Startup Advisor Private Limited collects, uses, and protects your personal information."
           }
         />
         <Meta
           name="keywords"
           content={
             seoData?.privacyPolicy?.keyword ||
-            "privacy policy, data protection, personal information, Abtik Startup Advisor"
+            "privacy policy, data protection, personal information, Jorwin Startup Advisor"
           }
         />
         <Meta
@@ -102,7 +102,7 @@ const PrivacyPolicy = () => {
             >
               Your privacy is important to us. Learn how we collect, use, and
               protect your personal information with transparency and security
-              at Abtik Startup Advisor Private Limited.
+              at Jorwin Startup Advisor Private Limited.
             </p>
             <div className="pt-2 sm:pt-4">
               <button
@@ -155,7 +155,7 @@ const PrivacyPolicy = () => {
 
               >
                 Welcome to{" "}
-                <strong>Abtik Startup Advisor Private Limited</strong> ("we,"
+                <strong>Jorwin Startup Advisor Private Limited</strong> ("we,"
                 "our," or "us"). We are committed to protecting your privacy and
                 ensuring the security of your personal information. This Privacy
                 Policy explains how we collect, use, disclose, and safeguard
@@ -458,13 +458,13 @@ const PrivacyPolicy = () => {
                       className="text-gray-700 font-semibold font-3"
 
                     >
-                      <strong>Abtik Startup Advisor Private Limited</strong>
+                      <strong>Jorwin Startup Advisor Private Limited</strong>
                     </p>
                     <p
                       className="text-gray-700 font-3"
 
                     >
-                      <strong>Email:</strong> <a href="mailto:info@abtikservices.com"> info@abtikservices.com</a>
+                      <strong>Email:</strong> <a href="mailto:info@Jorwinservices.com"> info@Jorwinservices.com</a>
                     </p>
                     <p
                       className="text-gray-700 font-3"

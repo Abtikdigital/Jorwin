@@ -490,7 +490,7 @@ const userTemplate = (data) => {
             
             <p>In the meantime, feel free to explore our website to learn more about our comprehensive range of business solutions and success stories from companies we've helped.</p>
             
-            <center><a href="https://www.abtikservices.com" class="button">Explore Our Solutions</a></center>
+            <center><a href="https://www.Jorwinservices.com" class="button">Explore Our Solutions</a></center>
             
             <div class="divider"></div>
             

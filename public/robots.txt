@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://abtikservices.com/sitemap.xml
+Sitemap: https://Jorwinservices.com/sitemap.xml

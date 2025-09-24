@@ -185,7 +185,7 @@ const About = () => {
             
             >
               Empowering Businesses through Comprehensive Solutions From Fund
-              Management to Legal Compliance, We've Got You Covered at Abtik
+              Management to Legal Compliance, We've Got You Covered at Jorwin
               Startup Advisor Private Limited
             </p>
             <div className="pt-2 sm:pt-4">
@@ -284,13 +284,13 @@ const About = () => {
           "
             
                   >
-                    Why Choose Abtik
+                    Why Choose Jorwin
                   </h2>
                   <p
                     className="paragraph  font-3"
                    
                   >
-                   At Abtik, we believe true success is built together. Our team blends seamless collaboration, proven expertise, and tailored solutions that align with your vision. Every product and service we deliver is designed to be relevant, reliable, and create a lasting impact for your business.
+                   At Jorwin, we believe true success is built together. Our team blends seamless collaboration, proven expertise, and tailored solutions that align with your vision. Every product and service we deliver is designed to be relevant, reliable, and create a lasting impact for your business.
                   </p>
                       <p
                     className="paragraph  font-3"

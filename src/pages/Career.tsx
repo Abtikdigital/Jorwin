@@ -426,7 +426,7 @@ const Career = () => {
 
             >
               Empowering Businesses through Comprehensive Solutions From Fund
-              Management to Legal Compliance, We've Got You Covered at Abtik
+              Management to Legal Compliance, We've Got You Covered at Jorwin
               Startup Advisor Private Limited
             </p>
             <div className="pt-2 sm:pt-4">
@@ -474,7 +474,7 @@ const Career = () => {
                     className="paragraph text-center md:text-left font-3"
 
                   >
-                    Kickstart your growth with jorwin , where creativity runs new opportunities in business. We create exciting career opportunities for growth, learning and meaningful effects. In Abtik, we value talent, encourage new ideas, and provide a supportive, collaborative workplace where your skills and ambitions can actually thrive.
+                    Kickstart your growth with jorwin , where creativity runs new opportunities in business. We create exciting career opportunities for growth, learning and meaningful effects. In Jorwin, we value talent, encourage new ideas, and provide a supportive, collaborative workplace where your skills and ambitions can actually thrive.
                   </p>
                 </>
               ) : (
@@ -504,7 +504,7 @@ const Career = () => {
               className="sub-heading bg-clip-text text-center bg-gradient-to-t text-transparent from-[#052EAA] to-[#3CA2E2] mb-12 font-1"
 
             >
-              Job Openings At Abtik
+              Job Openings At Jorwin
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 justify-center items-center">

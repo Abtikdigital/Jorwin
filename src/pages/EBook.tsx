@@ -21,7 +21,7 @@ import BgImage from "../assets/Hero/bgImg.svg";
 import EbookImage from "../assets/eBooks/Image2.jpg";
 import Book1 from "../assets/eBooks/StartupAccelerator.jpg";
 import Book2 from "../assets/eBooks/TAXExemption.jpg"
-import FormImage from "../assets/Logo/Abtik-blue.png";
+import FormImage from "../assets/Logo/Jorwin-blue.png";
 import seoData from "../data/seoData.json";
 import isValidIndianNumber from "../utils/validation/isGenuineNumber";
 import { addDownloadApplication } from "../api/eBookApi"; // Updated to a generic API for form submission
@@ -522,9 +522,9 @@ const Ebook: React.FC = () => {
                 </div>
               </a>
               <a
-                href="mailto:manish.kumar@abtikservices.co.in"
+                href="mailto:manish.kumar@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -534,8 +534,8 @@ const Ebook: React.FC = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-2 text-gray-600">
-                    <a href="mailto:manish.kumar@abtikservices.co.in">
-                      manish.kumar@abtikservices.co.in
+                    <a href="mailto:manish.kumar@Jorwinservices.co.in">
+                      manish.kumar@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>

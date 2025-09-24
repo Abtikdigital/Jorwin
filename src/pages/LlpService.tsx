@@ -57,9 +57,9 @@ const LLPRegistration = () => {
         "Minimum 2 designated partners (at least one Indian resident) and no minimum capital required (₹1 is sufficient).",
     },
     {
-      question: "6. How does Abtik help in LLP registration?",
+      question: "6. How does Jorwin help in LLP registration?",
       answer:
-        "Abtik provides end-to-end support: name reservation, document preparation, DPIN/Digital Signature, drafting the LLP Deed, online filing, and MCA approval, plus ongoing compliance reminders.",
+        "Jorwin provides end-to-end support: name reservation, document preparation, DPIN/Digital Signature, drafting the LLP Deed, online filing, and MCA approval, plus ongoing compliance reminders.",
     },
   ];
 
@@ -242,7 +242,7 @@ const LLPRegistration = () => {
 
             >
               Start your LLP the right way get quick name approval, partner
-              DPINs, and all filings managed by Abtik for minimum hassle and
+              DPINs, and all filings managed by Jorwin for minimum hassle and
               full compliance.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -315,9 +315,9 @@ const LLPRegistration = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -327,8 +327,8 @@ const LLPRegistration = () => {
                     Write Email
                   </p>
                   <p className="text-xs text-gray-600 font-3">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -488,7 +488,7 @@ const LLPRegistration = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -500,7 +500,7 @@ const LLPRegistration = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets You LLP Registered
+            How Jorwin Gets You LLP Registered
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

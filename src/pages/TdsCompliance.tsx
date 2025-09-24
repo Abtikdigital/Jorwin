@@ -56,9 +56,9 @@ const TDCompliance = () => {
         "Late deduction, deposit, or non filing of TDS returns can attract interest (1%to1.5% per month), late fee under Section 234E, penalties under Section 271H, and possible disallowance of relevant business expenses.",
     },
     {
-      question: "6. How can Abtik help with TDS compliance?",
+      question: "6. How can Jorwin help with TDS compliance?",
       answer:
-        "Abtik offers end to end TDS services TAN application, deduction calculation, timely deposit, quarterly return filing, Form 16/16A issuance, penalty notice handling, and compliance updates to ensure your business remains fully TDS compliant.",
+        "Jorwin offers end to end TDS services TAN application, deduction calculation, timely deposit, quarterly return filing, Form 16/16A issuance, penalty notice handling, and compliance updates to ensure your business remains fully TDS compliant.",
     },
   ];
 
@@ -147,7 +147,7 @@ const TDCompliance = () => {
       icon: Shield,
       title: "TDS Deposit & Return Filing",
       description:
-        "Abtik prepares and deposits TDS challans on time, files all quarterly TDS returns (Form 24Q, 26Q, etc.), and handles notices or corrections.",
+        "Jorwin prepares and deposits TDS challans on time, files all quarterly TDS returns (Form 24Q, 26Q, etc.), and handles notices or corrections.",
     },
     {
       icon: Award,
@@ -175,7 +175,7 @@ const TDCompliance = () => {
       icon: Shield,
       title: "Smooth Assessment & Peace of Mind",
       description:
-        "Abtik’s error free TDS filings ensure no hassle with tax scrutiny, delayed refunds, or blocked payments for your business.",
+        "Jorwin’s error free TDS filings ensure no hassle with tax scrutiny, delayed refunds, or blocked payments for your business.",
     },
     {
       icon: Users,
@@ -318,9 +318,9 @@ const TDCompliance = () => {
                 </div>
               </a>
               <a
-                href="heer@abtikservices.co.in"
+                href="heer@Jorwinservices.co.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -330,8 +330,8 @@ const TDCompliance = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:heer@abtikservices.co.in">
-                      heer@abtikservices.co.in
+                    <a href="mailto:heer@Jorwinservices.co.in">
+                      heer@Jorwinservices.co.in
                     </a>
                   </p>
                 </div>
@@ -489,7 +489,7 @@ const TDCompliance = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -501,7 +501,7 @@ const TDCompliance = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Simplifies Your TDS Compliance
+            How Jorwin Simplifies Your TDS Compliance
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

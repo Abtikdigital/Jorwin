@@ -20,7 +20,7 @@
 //   {
 //     name: "Arun Sapre",
 //     company: "Shri Sai Advance Imaging and Diagnostic Centre",
-//     text: "Jorwin  made our seed funding process smooth and stress-free. Special thanks to Anand, Jyoti, and Khusi for their prompt support and professionalism. Highly recommended for startups! Thank you, Team ABTIK!",
+//     text: "Jorwin  made our seed funding process smooth and stress-free. Special thanks to Anand, Jyoti, and Khusi for their prompt support and professionalism. Highly recommended for startups! Thank you, Team Jorwin!",
 //   },
 //   {
 //     name: "Kingzee Chhachhi",
@@ -30,12 +30,12 @@
 //   {
 //     name: "Manju Choudhary",
 //     company: "Femaura Crafts",
-//     text: "Abtik group of company is one destination for all kind of registration & scheme kind of solution. They worked aggressively and on time responsive, explain each n everything point to point. Special thanks to Vidit and staff.",
+//     text: "Jorwin group of company is one destination for all kind of registration & scheme kind of solution. They worked aggressively and on time responsive, explain each n everything point to point. Special thanks to Vidit and staff.",
 //   },
 //   {
 //     name: "Kuro Valmiki",
 //     company: "",
-//     text: "I live in Pune. I spoke to Shashikant Gaikwad. He gave me a better service than I had expected. His team did a great job. Thanks to Abtik Group of Companies for that.",
+//     text: "I live in Pune. I spoke to Shashikant Gaikwad. He gave me a better service than I had expected. His team did a great job. Thanks to Jorwin Group of Companies for that.",
 //   },
 // ];
 
@@ -235,7 +235,7 @@ const testimonials = [
     name: "Arun Sapre",
     company: "Shri Sai Advance Imaging and Diagnostic Centre",
     text:
-      "Jorwin  made our seed funding process smooth and stress-free. Special thanks to Anand, Jyoti, and Khusi for their prompt support and professionalism. Highly recommended for startups! Thank you, Team ABTIK!",
+      "Jorwin  made our seed funding process smooth and stress-free. Special thanks to Anand, Jyoti, and Khusi for their prompt support and professionalism. Highly recommended for startups! Thank you, Team Jorwin!",
   },
   {
     name: "Kingzee Chhachhi",
@@ -247,13 +247,13 @@ const testimonials = [
     name: "Manju Choudhary",
     company: "Femaura Crafts",
     text:
-      "Abtik group of company is one destination for all kind of registration & scheme kind of solution. They worked aggressively and on time responsive, explain each n everything point to point. Special thanks to Vidit and staff.",
+      "Jorwin group of company is one destination for all kind of registration & scheme kind of solution. They worked aggressively and on time responsive, explain each n everything point to point. Special thanks to Vidit and staff.",
   },
   {
     name: "Kuro Valmiki",
     company: "",
     text:
-      "I live in Pune. I spoke to Shashikant Gaikwad. He gave me a better service than I had expected. His team did a great job. Thanks to Abtik Group of Companies for that.",
+      "I live in Pune. I spoke to Shashikant Gaikwad. He gave me a better service than I had expected. His team did a great job. Thanks to Jorwin Group of Companies for that.",
   },
 ];
 

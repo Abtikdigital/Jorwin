@@ -153,7 +153,7 @@ const MSMECertificate = () => {
       icon: Shield,
       title: "Certificate & Support",
       description:
-        "Receive your e-certificate by email with a unique Udyam number. Use it to access all MSME benefits, with help from Abtik.",
+        "Receive your e-certificate by email with a unique Udyam number. Use it to access all MSME benefits, with help from Jorwin.",
     },
   ];
 
@@ -247,7 +247,7 @@ const MSMECertificate = () => {
 
             >
               Get Udyam MSME registration for priority lending, patent rebates,
-              government schemes, and exclusive business advantages with Abtik
+              government schemes, and exclusive business advantages with Jorwin
               support.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -320,9 +320,9 @@ const MSMECertificate = () => {
                 </div>
               </a>
               <a
-                href="mailto:mahendra.kumar@abtikservices.com"
+                href="mailto:mahendra.kumar@Jorwinservices.com"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -332,8 +332,8 @@ const MSMECertificate = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600 ">
-                    <a href="mailto:mahendra.kumar@abtikservices.com" >
-                      mahendra.kumar@abtikservices.com
+                    <a href="mailto:mahendra.kumar@Jorwinservices.com" >
+                      mahendra.kumar@Jorwinservices.com
                     </a>
                   </p>
                 </div>
@@ -501,7 +501,7 @@ const MSMECertificate = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Helps You Get MSME Certified
+            How Jorwin Helps You Get MSME Certified
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

@@ -464,7 +464,7 @@ const userTemplate = (userInfo) => {
               <p>We will contact you within 24-48 business hours if your profile matches our requirements. Thank you for your interest in joining our team!</p>
             </div>
             <p>In the meantime, feel free to explore our website for more information about our company and opportunities.</p>
-            <center><a href="https://www.abtikservices.com" class="button">Visit Our Website</a></center>
+            <center><a href="https://www.Jorwinservices.com" class="button">Visit Our Website</a></center>
             <div class="divider"></div>
             <p>If you have any urgent questions, please don't hesitate to contact us.</p>
           </div>

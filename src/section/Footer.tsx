@@ -21,7 +21,7 @@ const Footer = () => {
             <img src={Logo} className="h-14" />
           </div>
           <h2 className="paragraph">
-            © 2022 abtikservices - All rights reserved.
+            © 2022 Jorwinservices - All rights reserved.
           </h2>
           <div className="flex gap-2">
             <a href="https://www.facebook.com/share/1aKQvTf7NU/" target="_blank" className="hover:from-[#2178B5] hover:bg-gradient-to-tl hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg ">
@@ -31,14 +31,14 @@ const Footer = () => {
                 size="xl"
               />
             </a>
-            <a href="https://www.linkedin.com/company/abtik-services/" target="_blank" className="hover:from-[#2178B5] hover:bg-gradient-to-tl hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg ">
+            <a href="https://www.linkedin.com/company/Jorwin-services/" target="_blank" className="hover:from-[#2178B5] hover:bg-gradient-to-tl hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg ">
               <FontAwesomeIcon
                 icon={faLinkedin}
                 className="text-white "
                 size="xl"
               />
             </a>
-            <a href="https://www.instagram.com/abtikservices?igsh=MTk3cWxteWswbTFidQ==" target="_blank" className="hover:from-[#2178B5] hover:bg-gradient-to-tl hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg ">
+            <a href="https://www.instagram.com/Jorwinservices?igsh=MTk3cWxteWswbTFidQ==" target="_blank" className="hover:from-[#2178B5] hover:bg-gradient-to-tl hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg ">
               <FontAwesomeIcon
                 icon={faInstagram}
                 className="text-white "
@@ -58,8 +58,8 @@ const Footer = () => {
             </li>
             <li className="flex gap-3 items-center">
               <Mail className="hover:from-[#2178B5] hover:bg-gradient-to-tl text-white min-h-8 min-w-8 hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg" />
-              <a href="mailto:info@abtikservices.com" className="text-sm text-[#4D4D4D] font-semibold hover:underline hover:text-gray-950 cursor-pointer duration-300">
-                info@abtikservices.com
+              <a href="mailto:info@Jorwinservices.com" className="text-sm text-[#4D4D4D] font-semibold hover:underline hover:text-gray-950 cursor-pointer duration-300">
+                info@Jorwinservices.com
               </a>
             </li>
             <li className="flex gap-3 items-center ">

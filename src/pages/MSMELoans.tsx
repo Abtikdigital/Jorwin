@@ -72,9 +72,9 @@ const MSMELoans = () => {
         "Interest rates typically range from 8 to 14% depending on the loan type, business profile, and credit score. Repayment terms vary from 1,7 years for term loans. Working capital loans usually have shorter tenure with flexible repayment options."
     },
     {
-      question: "7. How can Abtik help in the MSME loan process?",
+      question: "7. How can Jorwin help in the MSME loan process?",
       answer:
-        "Abtik provides end to end assistance including loan eligibility assessment, documentation support, application processing, liaison with banks/NBFCs, and post approval services. We help maximize approval chances and secure better terms."
+        "Jorwin provides end to end assistance including loan eligibility assessment, documentation support, application processing, liaison with banks/NBFCs, and post approval services. We help maximize approval chances and secure better terms."
     }
   ];
 
@@ -204,7 +204,7 @@ const MSMELoans = () => {
     <>
       <HeadProvider>
         <Title>{seoData?.msmeLoans?.title || "MSME Loans - CGTMSE, Udyam & Mudra Loans"}</Title>
-        <Meta name="description" content={seoData?.msmeLoans?.description || "Get MSME loans including CGTMSE, Udyam, and Mudra loans with Abtik's expert assistance."} />
+        <Meta name="description" content={seoData?.msmeLoans?.description || "Get MSME loans including CGTMSE, Udyam, and Mudra loans with Jorwin's expert assistance."} />
         <Meta name="keywords" content={seoData?.msmeLoans?.keyword || "MSME loans, CGTMSE, Udyam registration, Mudra loans, business loans"} />
         <Meta name="robots" content={seoData?.msmeLoans?.robots || "index, follow"} />
       </HeadProvider>
@@ -325,7 +325,7 @@ const MSMELoans = () => {
                 </div>
               </a>
               <a
-                href="mailto:bharat@abtikservices.com"
+                href="mailto:bharat@Jorwinservices.com"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
                 aria-label="Email us"
               >
@@ -337,8 +337,8 @@ const MSMELoans = () => {
                     Write Email
                   </p>
                   <p className="text-xs text-gray-600 font-3">
-                    <a href="mailto:bharat@abtikservices.com">
-                      bharat@abtikservices.com
+                    <a href="mailto:bharat@Jorwinservices.com">
+                      bharat@Jorwinservices.com
                     </a>
                   </p>
                 </div>
@@ -614,7 +614,7 @@ const MSMELoans = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -646,7 +646,7 @@ const MSMELoans = () => {
           </div>
         </motion.section>
 
-        {/* Why Choose Abtik Section */}
+        {/* Why Choose Jorwin Section */}
         <motion.section
           ref={refWhyChoose}
           initial={{ y: 100, opacity: 0 }}
@@ -655,7 +655,7 @@ const MSMELoans = () => {
           className="px-7 md:px-14 bg-[#f7f7f7] py-8"
         >
           <h2 className="sub-heading text-center font-2 bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]">
-            Why Choose Abtik for MSME Loans
+            Why Choose Jorwin for MSME Loans
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {benefitsData?.map((benefit, index) => (

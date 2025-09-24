@@ -246,7 +246,7 @@ const MakeInIndiaCertificate = () => {
 
             >
               Prove your products are truly Indian, access special incentives,
-              and get preference in public procurement, Abtik makes certification
+              and get preference in public procurement, Jorwin makes certification
               simple, fast, and 100% Compliant.
             </p>
             <div className="pt-2 sm:pt-4">
@@ -319,9 +319,9 @@ const MakeInIndiaCertificate = () => {
                 </div>
               </a>
               <a
-                href="mailto:sumitradadiya@abtikservices.in"
+                href="mailto:sumitradadiya@Jorwinservices.in"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -331,8 +331,8 @@ const MakeInIndiaCertificate = () => {
                     Write Email
                   </p>
                   <p className="text-xs font-3 text-gray-600">
-                    <a href="mailto:sumitradadiya@abtikservices.in">
-                      sumitradadiya@abtikservices.in
+                    <a href="mailto:sumitradadiya@Jorwinservices.in">
+                      sumitradadiya@Jorwinservices.in
                     </a>
                   </p>
                 </div>
@@ -483,7 +483,7 @@ const MakeInIndiaCertificate = () => {
           </div>
         </motion.section>
 
-        {/* Abtik Process Section */}
+        {/* Jorwin Process Section */}
         <motion.section
           ref={refProcess}
           initial={{ y: 100, opacity: 0 }}
@@ -495,7 +495,7 @@ const MakeInIndiaCertificate = () => {
             className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
 
           >
-            How Abtik Gets Your MII Certification
+            How Jorwin Gets Your MII Certification
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             {processData.map((process, index) => (

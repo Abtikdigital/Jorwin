@@ -111,7 +111,7 @@ const CashCredit = () => {
     const refCashCreditBenefits = useRef(null);
     const isInViewCashCreditBenefits = useInView(refCashCreditBenefits, { once: true, amount: 0.1 });
 
-    // Abtik Process
+    // Jorwin Process
     const refProcess = useRef(null);
     const isInViewProcess = useInView(refProcess, { once: true, amount: 0.1 });
     const [processCols, setProcessCols] = useState(1);
@@ -327,9 +327,9 @@ const CashCredit = () => {
                             </div>
                         </a>
                         <a
-                            href="mailto:bharat@abtikservices.com"
+                            href="mailto:bharat@Jorwinservices.com"
                             className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                            aria-label="Email us at info@abtik.com"
+                            aria-label="Email us at info@Jorwin.com"
                         >
                             <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                                 <Mail className="w-5 h-5 text-white" />
@@ -338,7 +338,7 @@ const CashCredit = () => {
                                 <p className="text-base text-gray-700 font-semibold font-3">
                                     Write Email
                                 </p>
-                                <p className="text-xs text-gray-600 font-3"><a href="mailto:bharat@abtikservices.com">bharat@abtikservices.com</a></p>
+                                <p className="text-xs text-gray-600 font-3"><a href="mailto:bharat@Jorwinservices.com">bharat@Jorwinservices.com</a></p>
                             </div>
                         </a>
                     </div>
@@ -595,7 +595,7 @@ const CashCredit = () => {
                 </div>
             </motion.section>
 
-            {/* Abtik Process Section */}
+            {/* Jorwin Process Section */}
             <motion.section
                 ref={refProcess}
                 initial={{ y: 100, opacity: 0 }}
@@ -606,7 +606,7 @@ const CashCredit = () => {
                 <h2 className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
                     
                 >
-                    How Abtik Helps You Get Cash Credit
+                    How Jorwin Helps You Get Cash Credit
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                     {processData?.map((process, index) => (
@@ -643,7 +643,7 @@ const CashCredit = () => {
                 <h2 className="sub-heading font-2 text-center bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
                    
                 >
-                    Why Choose Abtik for Cash Credit
+                    Why Choose Jorwin for Cash Credit
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                     {benefitsData?.map((benefit, index) => (

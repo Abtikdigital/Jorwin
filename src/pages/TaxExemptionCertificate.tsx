@@ -311,9 +311,9 @@ const TaxExemptionCertificate = () => {
                 </div>
               </a>
               <a
-                href="mailto:bharat@abtikservices.com"
+                href="mailto:bharat@Jorwinservices.com"
                 className="flex items-center space-x-4 hover:bg-blue-50 p-2 rounded-lg transition"
-                aria-label="Email us at info@abtik.com"
+                aria-label="Email us at info@Jorwin.com"
               >
                 <span className="bg-gradient-to-r from-[#052EAA] to-[#3CA2E2] p-3 rounded-full">
                   <Mail className="w-5 h-5 text-white" />
@@ -323,8 +323,8 @@ const TaxExemptionCertificate = () => {
                     Write Email
                   </p>
                   <p className="text-xs text-gray-600 font-3">
-                    <a href="mailto:bharat@abtikservices.com">
-                      bharat@abtikservices.com
+                    <a href="mailto:bharat@Jorwinservices.com">
+                      bharat@Jorwinservices.com
                     </a>
                   </p>
                 </div>
@@ -551,7 +551,7 @@ const TaxExemptionCertificate = () => {
                 </div>
             </motion.section>
 
-            {/* Abtik Process Section */}
+            {/* Jorwin Process Section */}
             <motion.section
                 ref={refProcess}
                 initial={{ y: 100, opacity: 0 }}
@@ -586,7 +586,7 @@ const TaxExemptionCertificate = () => {
                 </div>
             </motion.section>
 
-            {/* Why Choose Abtik Section */}
+            {/* Why Choose Jorwin Section */}
             <motion.section
                 ref={refWhyChoose}
                 initial={{ y: 100, opacity: 0 }}
@@ -596,7 +596,7 @@ const TaxExemptionCertificate = () => {
             >
                 <h2 className="sub-heading text-center font-2 bg-gradient-to-t text-transparent bg-clip-text from-[#3CA2E2] to-[#052EAA]"
                 >
-                    Why Choose Abtik for Your Tax Certificate
+                    Why Choose Jorwin for Your Tax Certificate
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                     {benefitsData?.map((benefit, index) => (
