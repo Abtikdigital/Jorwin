@@ -3,7 +3,7 @@ import Mainlayout from "../section/Mainlayout";
 import BgImage from "../assets/Career/bgImg.svg";
 import Image1 from "../assets/Career/Career.jpg";
 import Contact from "../section/Contact";
-import Logo from "../assets/Logo/JorwinLogo.jpg";
+import Logo from "../assets/Logo/BlackBlueJorwin.png";
 // import CareerImage from "../assets/Hero/bgImg.svg";
 import { addApplication } from "../api/careerApi";
 import {
@@ -632,7 +632,7 @@ const Career = () => {
                       loading="lazy"
                       src={Logo}
                       alt="Career Visual"
-                      className="rounded-xl max-w-full h-48 md:h-full max-h-[200px] md:max-h-[200px] md:max-w-[300px]"
+                      className="rounded-xl max-w-full h-48 md:h-full max-h-[200px] md:max-h-[200px] md:max-w-[400px] object-contain"
                     />
                   </div>
 

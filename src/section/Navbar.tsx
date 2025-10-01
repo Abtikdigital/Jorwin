@@ -1,5 +1,5 @@
 import { ChevronDown, Menu, X, ChevronRight } from "lucide-react";
-import Logo from "../assets/Logo/JorwinLogo.jpg";
+import Logo from "../assets/Logo/BlackBlueJorwin.png";
 import { useEffect, useState, useRef, memo } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -520,7 +520,7 @@ const DesktopNavbar = () => {
     <div className="hidden xl:block container mx-auto px-4 lg:px-8 xl:px-14 py-2">
       <div className="flex items-center justify-between">
         <div className="flex-shrink-0">
-          <img src={Logo} alt="Logo" className="h-12 lg:h-14" />
+          <img src={Logo} alt="Logo" className="h-12 lg:h-12" />
         </div>
 
         <div ref={menuWrapperRef}>
