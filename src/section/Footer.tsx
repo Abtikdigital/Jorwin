@@ -22,7 +22,7 @@ const Footer = () => {
           <h2 className="paragraph">
             © 2022 Jorwinservices - All rights reserved.
           </h2>
-          <div className="flex gap-2">
+          {/* <div className="flex gap-2">
             <a
               href="https://www.facebook.com/share/1aKQvTf7NU/"
               target="_blank"
@@ -56,7 +56,7 @@ const Footer = () => {
                 size="xl"
               />
             </a>
-          </div>
+          </div> */}
         </div>
         <div>
           <h2 className="heading  ">Contact Info</h2>
