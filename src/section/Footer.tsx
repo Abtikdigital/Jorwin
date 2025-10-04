@@ -1,13 +1,13 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Logo from "../assets/Logo/BlackBlueJorwin.png";
 import { MapPin } from "lucide-react";
 import { Phone } from "lucide-react";
 import { Mail } from "lucide-react";
-import {
-  faFacebook,
-  faInstagram,
-  faLinkedin,
-} from "@fortawesome/free-brands-svg-icons";
+// import {
+//   faFacebook,
+//   faInstagram,
+//   faLinkedin,
+// } from "@fortawesome/free-brands-svg-icons";
 import { Link } from "react-router-dom";
 import { memo } from "react";
 
@@ -64,10 +64,10 @@ const Footer = () => {
             <li className="flex gap-3 items-center">
               <Phone className="hover:from-[#2178B5] hover:bg-gradient-to-tl text-white min-h-8 min-w-8 hover:to-[#021E6B] cursor-pointer bg-gradient-to-tr from-[#3CA2E2] to-[#052EAA] p-1.5 rounded-lg" />
               <a
-                href="tel:+91 88667 70439"
+                href="tel:+91922799 5050"
                 className="text-sm text-[#4D4D4D] font-semibold hover:underline hover:text-gray-950 cursor-pointer duration-300"
               >
-                +91 88667 70439
+               +91 922799 5050
               </a>
             </li>
             <li className="flex gap-3 items-center">
