@@ -516,7 +516,7 @@ const RefundPolicy = () => {
                       className="text-gray-700 font-3"
                  
                     >
-                      <strong>Phone:</strong> <a href="tel:   +91 88667 70439">   +91 88667 70439</a>
+                      <strong>Phone:</strong> <a href="tel:   +91922799 5050">   +91922799 5050</a>
                     </p>
                     <p
                       className="text-gray-700 font-3"
