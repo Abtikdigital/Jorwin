@@ -14,7 +14,7 @@ const ClientStats = () => {
   ];
 
   const numberVariants: Variants = {
-    hidden: { opacity: 0, y: 20 },
+    hidden: { opacity: 0, y: 20 },  
     visible: (i: any) => ({
       opacity: 1,
       y: 0,
